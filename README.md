@@ -8,6 +8,8 @@ This is an app for planning your tavel, app provides functionalities such as:
 
 # **Installation on local environment**
 
+**API keys were removed, maps and LLM requests will not work**
+
 To install this app on the local environment please follow this steps:
 1) Unpack the ZIP file (not mandatory for cloned repository)
 2) Run script **run.sh** with **root** privilages
