@@ -8,8 +8,6 @@ This is an app for planning your tavel, app provides functionalities such as:
 
 # **Installation on local environment**
 
-**API keys were removed, maps and LLM requests will not work**
-
 To install this app on the local environment please follow this steps:
 1) Unpack the ZIP file (not mandatory for cloned repository)
 2) Run script **run.sh** with **root** privilages
@@ -28,5 +26,5 @@ To install this app on the local environment please follow this steps:
 7) Drag and drop **postgres_seed.sql** and run query
 8) Enter `localhost:3000` and start using the app!
 
-### Some functionalities might not be working becouse of api keys!
+### Some functionalities might not be working becouse of api keys
 ### Please contact the authors for support
